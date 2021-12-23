@@ -1,16 +1,6 @@
 # Banking-System
-
-![image](https://user-images.githubusercontent.com/83595522/147219961-38ace055-7500-4507-a631-cd7877753dac.png)
-
-![image](https://user-images.githubusercontent.com/83595522/147219727-02b55a77-6011-4016-9129-8503d196cce5.png)
-![image](https://user-images.githubusercontent.com/83595522/147220494-518c5165-ba9f-4ab2-bc01-62d60ba3b21b.png)
-
-
-![image](https://user-images.githubusercontent.com/83595522/147219785-fe5d94ed-cc81-4fff-9bee-7e87fe9f58ac.png)
-
-![image](https://user-images.githubusercontent.com/83595522/147219836-423a8e12-0330-4ccb-a2d7-b5d89e801a43.png)
-![image](https://user-images.githubusercontent.com/83595522/147221327-ac379287-746d-4464-8e6b-e09163be74d4.png)
-
-![image](https://user-images.githubusercontent.com/83595522/147221300-4e2f4023-e145-4b40-9323-508db241706e.png)
-
+![image](https://user-images.githubusercontent.com/83595522/147222906-a575feb5-06f3-4430-807d-2aef2d068ed8.png)
+![image](https://user-images.githubusercontent.com/83595522/147223398-38f5bd08-b19b-4332-86e7-0ddf7ac82246.png)
+![image](https://user-images.githubusercontent.com/83595522/147223633-a52a1656-a997-4527-8fa3-446a2066ec61.png)
+![image](https://user-images.githubusercontent.com/83595522/147223907-a192b81b-8a8b-41f8-9901-3454b8d0e042.png)
 
